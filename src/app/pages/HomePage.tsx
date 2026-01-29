@@ -4,7 +4,7 @@ import { HeroSlider } from '@/app/components/HeroSlider';
 import { ProductCard } from '@/app/components/ProductCard';
 import { Sparkles, Award, Shield, Gem, ArrowRight } from 'lucide-react';
 import { gemsProducts, jewelryProducts } from '@/app/data/products';
-
+//hello
 export function HomePage() {
   const features = [
     {
